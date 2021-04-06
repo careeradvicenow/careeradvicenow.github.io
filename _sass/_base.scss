@@ -155,9 +155,9 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    //background-image: url('../img/header.jpg');
     text-align: center;
-    color: white;
+    color: #4ECDC4;
     .header-content {
         position: relative;
         text-align: center;
